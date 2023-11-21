@@ -1,3 +1,7 @@
+import exampleConfig from './example-config.json';
+
+console.log(exampleConfig);
+
 /* eslint-disable */
 export default {
   displayName: 'test-jest-ts-compile-error',
